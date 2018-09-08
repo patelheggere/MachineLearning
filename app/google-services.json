@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "612474993764",
+    "firebase_url": "https://chat-e36af.firebaseio.com",
+    "project_id": "chat-e36af",
+    "storage_bucket": "chat-e36af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612474993764:android:1b473f4a26dd81ab",
+        "android_client_info": {
+          "package_name": "com.patelheggere.ml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612474993764-q4j75l7e2k96g66pfppscdeeh80p9jam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAkx5CdZayYCYm87X8SdXRCsp67X6o5Jw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612474993764:android:3ac58eba214a1701",
+        "android_client_info": {
+          "package_name": "com.tutsplus.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612474993764-q4j75l7e2k96g66pfppscdeeh80p9jam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAkx5CdZayYCYm87X8SdXRCsp67X6o5Jw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
